@@ -2,7 +2,7 @@
 /**
  * Authenticator loader.
  *
- * @package APIAPIAuthenticatorBearer
+ * @package APIAPI\Authenticator_Bearer
  * @since 1.0.0
  */
 
